@@ -113,3 +113,12 @@
 .links .nav a svg {
     fill: #FAF0E6 !important;
 }
+
+@media (max-width: 900px) {
+  .container{
+    padding: 70px;
+  }
+  h1{
+    margin-left: 100px;
+  }
+}
