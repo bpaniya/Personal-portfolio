@@ -125,7 +125,8 @@
     padding: 40px;
   }
     .About{
-    padding: 100px;
+    padding-top: 50px;
+        padding-bottom: 50px;
     }
 }
 
