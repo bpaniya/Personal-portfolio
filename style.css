@@ -115,10 +115,18 @@
 }
 
 @media (max-width: 900px) {
-  .container{
-    padding: 70px;
-  }
+  /* .container{
+    padding: 60px;
+  } */
   h1{
     margin-left: 100px;
   }
+  .pricing-project{
+    padding: 30px;
+  }
+}
+
+footer{
+  display: flex;
+  justify-content: center;
 }
